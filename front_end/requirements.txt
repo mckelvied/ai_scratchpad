@@ -5,10 +5,4 @@ matplotlib==3.8.2
 langchain-openai>=0.1.0
 pydantic==2.10.6
 networkx==3.2.1
-python-dotenv==1.0.1
 gradio==6.3.0
-matplotlib==3.8.2
-langchain-openai>=0.1.0
-pydantic==2.10.6
-networkx==3.2.1
-python-dotenv==1.0.1
