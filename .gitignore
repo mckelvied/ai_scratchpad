@@ -209,3 +209,6 @@ __marimo__/
 # sqlite cache files
 *.sqlite
 .cache.*
+
+# Streamlit
+.streamlit/secrets.toml
